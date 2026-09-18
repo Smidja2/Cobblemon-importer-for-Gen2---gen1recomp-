@@ -1,3 +1,6 @@
+*This repository does not distribute Cobblemon or CCC assets. Users must obtain the required source packages separately from their respective official distribution pages. The builder processes user-supplied files locally in the browser. No Cobblemon or CCC files are downloaded by the builder or transmitted to this project. Generated files are intended for the user's local use.*
+
+
 # CobblemonGen2
 
 CobblemonGen2 brings Pokémon #001--493 to Gen1Recomp.
