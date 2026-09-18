@@ -9,17 +9,13 @@ CobblemonGen2 brings Pokémon #001--493 to Gen1Recomp.
 
 ### 1. Cobblemon 1.8.1
 
-Download **Cobblemon 1.8.1 for Minecraft 1.21.1 / Fabric** - Download as .zip (147mb windows view or 150,923mb properties view)
-
-https://modrinth.com/mod/cobblemon?version=1.21.1&loader=fabric#download
+Download **Cobblemon 1.8.1 for Minecraft 1.21.1 / Fabric** - Download as .zip (around 147mb windows view or 150,923mb properties view)
 
 ### 2. CCC 2.1
 
 Download **CCC 2.1 for Minecraft 1.21.1 / Data Pack**:
 
-https://modrinth.com/datapack/complete-cobblemon-collection-myths-and-legends-compat?version=1.21.1&loader=datapack#download
-
-Choose **2.1 Release (17.87Mib)** - not Download as .zip (17.9mb windows view or 18,304mb properties view)
+Choose **2.1 Release (17.87Mib)** - not Download as .zip (around 17.9mb windows view or 18,304mb properties view)
 ## Build
 
 Open the CobblemonGen2 Builder.
