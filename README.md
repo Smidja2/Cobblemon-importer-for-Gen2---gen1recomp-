@@ -40,7 +40,7 @@ mods folder.
 
 Enable **CobblemonGen2** from the mod menu.
 
-**## Credits**
+## Credits
 
 **Cobblemon:**
 Cobbled Studios • Veraxiel • Myslippy • Hiroku • Torchmarrow • gingledoof0 • Glitch_Ratt • QriviateA • Rogerregoat • SilverBerr1 • EikoBiko • dhi_holo • addy_bromide • Azooreh • drewlordybuilds • Dynamite2pt0 • Mallowu • Mallowuu • MJB-coolness • nickaholic • SamIr0n • SamyTheGil • Valirus • whoisvoxel • Jakotens • mvthwus • Wi2tert • giodude1580 • Carmendarr • FrankTheFarmer • Genotype • Kenji_64 • RedGenesectNinja • Tyzillion • TyzillionCBMN • Sarge54125 • spg • HexeChroma • Hysako_ • virtuositas • BlazingBRO • boyfriends • JoeSeff • maashous • Gesteyy • heaveninvoid_ • KleeHubertus • TotallyNotAHobo • Brotatsun64 • Apion • BlackSpirit • Charzard4261 • complacentdev • Erusel • JPAKx4 • MoeBoy76 • negocio • NickImpact • plastered_crab • Waldleufer • whatsy • Sterrezo • Bwavii • 321retrogamer • DoctorWafflePhD • JadedTeal • lilpebs • duckyquackington1
